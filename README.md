@@ -1,4 +1,4 @@
-# 🧠 Autonomous Research Assistant using OpenRouter AI
+# Autonomous Research Assistant using OpenRouter AI
 
 This project is an intelligent assistant that helps automate literature reviews.
 
